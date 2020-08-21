@@ -1,1 +1,1 @@
-# Gerência de Configuração de Software (com Git)
+## Gerência de Configuração de Software (com Git e Github)
