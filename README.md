@@ -1,8 +1,8 @@
 ## Gerência de Configuração de Software (com Git e Github)
 
-### Sala das atividades síncronas
+O plano da disciplina está disponível [aqui](./media/plano-gcs.pdf). Os momentos síncronos,
+toda segunda-feira, ocorrerão na sala [virtual](https://meet.google.com/lookup/b2q7k34nbs).
 
-https://meet.google.com/lookup/b2q7k34nbs 
 
 
 
