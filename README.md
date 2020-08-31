@@ -2,7 +2,7 @@
 
 :information_source: O plano da disciplina está disponível [aqui](./media/plano-gcs.pdf). Informação importante sobre direitos autorais: [aqui](./media/recomendacao-prograd.pdf).
 
-:cinema: Os momentos síncronos ocorrerão às segundas-feiras na nossa sala [virtual](https://meet.google.com/lookup/b2q7k34nbs).
+:cinema: Os momentos síncronos ocorrerão às segundas-feiras na nossa sala [virtual](https://meet.google.com/lookup/b2q7k34nbs), das 19h às 20h.
 
 ## Tópicos
 
