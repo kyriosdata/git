@@ -13,3 +13,4 @@
 - [T05](./topicos/05.md) (14/09/2020 - 20/09/2020)
 - [T06](./topicos/06.md) (14/09/2020 - 24/09/2020)
 - [T07](./topicos/07.md) (data limite: **26/09/2020 23h59min59s**)
+- [T08](./topicos/08.md) (data limite: **30/09/2020 23h59min59s**)
