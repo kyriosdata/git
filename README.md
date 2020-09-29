@@ -15,3 +15,4 @@
 - [T07](./topicos/07.md) (data limite: **26/09/2020 23h59min59s**)
 - [T08](./topicos/08.md) (data limite: **30/09/2020 23h59min59s**)
 - [T09](./topicos/09.md) (data limite: **05/10/2020 23h59min59s**)
+- [T10](./topicos/10.md) (data limite: **07/10/2020 23h59min59s**)
