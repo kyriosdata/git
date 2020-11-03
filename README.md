@@ -21,3 +21,4 @@
 - [T13](./topicos/13.md) (data limite: **26/10/2020 23h59min59s**)
 - [T14](./topicos/14.md) (data limite: **30/10/2020 23h59min59s**)
 - [T15](./topicos/15.md) (data limite: **09/11/2020 23h59min59s**)
+- [T16](./topicos/16.md) (data limite: **10/11/2020 23h59min59s**)
