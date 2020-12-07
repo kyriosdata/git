@@ -27,3 +27,5 @@
 - [T19](./topicos/19.md) (data limite: **07/12/2020 23h59min59s**)
 - Não teremos nosso encontro no dia de hoje (30/11/2020) por motivos supervenientes. Dúvidas, naturalmente,
 podem ser registradas como _issues_. 
+- [T20](./topicos/20.md) (data limite: **14/12/2020 23h59min59s**)
+
